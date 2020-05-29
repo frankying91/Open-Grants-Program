@@ -80,3 +80,16 @@ In this milestone, most works are done by testers and designer, and engineers wi
 2.	MediaBox workflow
 ![image](https://github.com/cat4fire/Open-Grants-Program/blob/master/src/design.png)
 
+3. Current Android version of MediaBox
+Please download the test version of MediaBox on Android here(https://drive.google.com/open?id=12Z8RapWalVASMndRNr7yhCeRyyVgpui9). This build is only for trial use only, it has limited functions, but it demonstrates the major functions of the music marketplace.
+- It includes the marketplace, friends, users activities, musician to sign a music, 
+- You can create an account using 12 Mnemonic word, create an password to sell, buy, play, resell music.
+- The musician can tokenize the music(NFT) for limited number of copies to sell, the musician can commit the users purchase, send text message to the buyers together with the music.
+- Functions you can NOT do: 
+a)	we disabled the payment, you can not purchase tokens to buy music. However, we have a test account for you to try.
+b)	We didn’t finish the admin software on desktop for musician to upload music and tokenize the music yet, we will send it out early next week.
+- The test account you can use, it has token to purchase music. However, all music should be manually signed by each musician, so the user has to wait for the musician to sign and release the music. We will create another test account for the musician early next week, so you know how musician manage the process.
+
+- The user testing account: Illness occur endorse zero jewel debris budget monitor organ hedgehog matter soda
+
+
